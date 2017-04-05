@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Alex Brush';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Alex Brush'), local('AlexBrush-Regular'), url(https://fonts.gstatic.com/s/alexbrush/v6/IdwaSrUcr-IskDo5YUNTVS3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+
+.icon-man-woman:before {
+  content: "\e9de";
+}
